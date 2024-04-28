@@ -22,6 +22,7 @@
       if($row['tinhtrang'] == '1'){  
     ?>
   <tr>
+    <th>hgshgs</th>
     <td><?php echo $i ?></td>
     <td><?php echo $row['tenkhachhang'] ?></td> 
     <td><?php echo $row['tenbaidang'] ?></td> 
