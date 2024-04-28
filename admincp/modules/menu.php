@@ -45,6 +45,7 @@ body {
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="index.php?action=quanlywebsite&query=them">Slider</a>
+        <a>helo</a>
       </li>
     </ul>
   </div>
