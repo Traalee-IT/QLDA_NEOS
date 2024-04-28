@@ -49,7 +49,7 @@
             $('.select-date').change(function(){
                 var thoigian = $(this).val();
                 if(thoigian == '7ngay'){
-                    text = '7 ngày qua';
+                    text = '9 ngày qua';
                 } else if(thoigian == '28ngay'){
                     text = '28 ngày qua';
                 } else if(thoigian == '90ngay'){
