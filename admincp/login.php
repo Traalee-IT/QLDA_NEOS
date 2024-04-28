@@ -50,7 +50,7 @@ if (isset($_POST['dangnhap'])) {
             </div>
             <div class="card-body">
                 <div class="form-group">
-                    <label for="username">Tài khoản</label>
+                    <label for="username">Tên tài khoản</label>
                     <input type="text" class="form-control" name="username" id="username">
                 </div>
                 <div class="form-group">
