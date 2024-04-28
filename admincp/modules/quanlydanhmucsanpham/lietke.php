@@ -8,7 +8,7 @@
     <th>ID</th>
     <th>Tên danh mục</th>
     <th>Quản lý</th>
-    
+    <th>khachhang</th>
   </tr>
   <?php 
     $i=0;
