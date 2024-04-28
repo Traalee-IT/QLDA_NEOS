@@ -9,7 +9,7 @@
         while ($dong = mysqli_fetch_array($query_sua_danhmuc)){
    ?>
   <tr>
-    <td>Tên danh mục</td>
+    <td>Tên danh mục sản phẩm</td>
     <td><input type="text" name="tendanhmuc" value="<?php echo $dong['tendanhmuc']; ?>"></td>
   </tr>
   <tr>
