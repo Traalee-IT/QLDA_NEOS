@@ -19,7 +19,7 @@ $query_lietke_cm = mysqli_query($mysqli, $sql_lietke_cm);
     <th>Số sao</th>
     <th>Nội dung bình luận</th>
     <th>Quản lý</th>
-    
+    <th>ql</th>
   </tr>
   <?php 
     $i=0;
