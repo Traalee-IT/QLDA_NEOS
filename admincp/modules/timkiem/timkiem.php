@@ -22,7 +22,7 @@
 
 </style>
 <h3>Từ khóa tìm kiếm: <?php echo $_POST['tukhoa'];  ?></h3>
-<p>Liệt kê danh mục sản phẩm</p>
+<p>Liệt kê danh mục sản phẩm mặt hangg</p>
 <table style="width: 100%;" border="1" style="border-collapse: collapse;">
   <tr>
     <th>ID</th>
