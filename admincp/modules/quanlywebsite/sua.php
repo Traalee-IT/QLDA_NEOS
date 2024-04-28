@@ -10,7 +10,7 @@ while($row = mysqli_fetch_array($query_sua_lh)){
   <form method="POST"  action="modules/quanlywebsite/xuly.php?idslide=<?php echo  $row['id'] ?>" enctype="multipart/form-data">
  
   <tr>
-    <td>Hình ảnh</td>
+    <td>Hình ảnh math </td>
     <td><input type="file" name="hinhanh">
     <img src="modules/quanlywebsite/uploads/<?php echo $row['hinhanh'] ?>" width="150px" >
   </td>
