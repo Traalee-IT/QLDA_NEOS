@@ -11,6 +11,7 @@
 <b><?php echo  $row_bd_title['tenkhachhang']  ?></b>: <?php echo  $row_bd_title['thoigian']  ?>
 <div style="text-align: center; text-transform: uppercase; display: flex; justify-content: center;">
 <h3 >
+   helo
     <?php echo $row_bd_title['tenbaidang'] ?>
 </h3>
 </div>
