@@ -2,7 +2,7 @@
 <table border="1px" width="50%" style="border-collapse: collapse;margin-top:20px">
   <form method="POST" action="modules/quanlydanhmucsanpham/xuly.php">
   <tr>
-    <td>Tên danh mục</td>
+    <td>Tên danh mục sản phẩm</td>
     <td><input type="text" name="tendanhmuc" required></td>
   </tr>
   <tr>
