@@ -46,7 +46,7 @@ if (isset($_POST['dangnhap'])) {
     <form action="" method="POST">
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">Đăng nhập Admin</h3>
+                <h3 class="card-title">Đăng nhập tài khoản</h3>
             </div>
             <div class="card-body">
                 <div class="form-group">
