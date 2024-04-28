@@ -31,7 +31,7 @@ $query_lietke_cm_bd = mysqli_query($mysqli, $sql_lietke_cm_bd);
     <?php }
   } else { ?>
     <tr>
-      <td colspan="5" style="text-align: center;color: violet;"><?php echo 'Không có bình luận nào khác'; ?></td>
+      <td colspan="5" style="text-align: center;color: violet;"><?php echo 'Không có bình luận '; ?></td>
     </tr>
   <?php } ?>
 </table>
