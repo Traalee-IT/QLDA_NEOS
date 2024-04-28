@@ -6,7 +6,7 @@
     <td><input type="file" name="hinhanh" required></td>
   </tr>
   <tr>
-  <td>Liên kết</td>
+  <td>Liên kết http</td>
     <td><input type="text" name="link"></td>
   </tr>
   <tr>
