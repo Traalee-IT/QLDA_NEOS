@@ -1,6 +1,6 @@
 <?php
 include('../../config/config.php');
-
+<h1>helo</h1>
 
    $tenloaisanpham = $_POST['tendanhmuc'];
    $thutu = $_POST['thutu'];
